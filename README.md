@@ -22,3 +22,5 @@
   - method overloading
   - single array
   - multidimensional array
+  - jagged array
+  - 3d array
