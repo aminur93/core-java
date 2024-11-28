@@ -25,3 +25,5 @@
   - jagged array
   - 3d array
   - array of object
+  - enhanced for loop
+  - string
