@@ -30,3 +30,5 @@
   - string builder and string buffer
   - static varibale
   - static method
+  - static block
+  - encapculation
