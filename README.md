@@ -29,3 +29,4 @@
   - string
   - string builder and string buffer
   - static varibale
+  - static method
