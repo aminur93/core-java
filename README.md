@@ -28,3 +28,4 @@
   - enhanced for loop
   - string
   - string builder and string buffer
+  - static varibale
