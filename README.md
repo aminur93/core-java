@@ -24,3 +24,4 @@
   - multidimensional array
   - jagged array
   - 3d array
+  - array of object
