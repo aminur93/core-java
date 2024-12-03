@@ -34,3 +34,4 @@
   - encapculation
   - this 
   - constructor 
+  - default and parameterized constructor
