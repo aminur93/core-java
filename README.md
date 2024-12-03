@@ -40,3 +40,5 @@
   - multi level inheritance
   - this and super method 
   - method overriding
+  - access modifier
+  - Polymorphism
