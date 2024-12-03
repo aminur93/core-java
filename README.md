@@ -32,3 +32,5 @@
   - static method
   - static block
   - encapculation
+  - this 
+  - constructor 

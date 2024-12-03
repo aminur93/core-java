@@ -1,21 +1,25 @@
-package encapculation;
+package this_in_java;
 
-class Human
-{
-    private int age;
+class Human {
+
     private String name;
-    public int getAge() {
-        return age;
-    }
-    public void setAge(int age) {
-        this.age = age;
-    }
+
+    private int age;
+
     public String getName() {
         return name;
     }
     public void setName(String name) {
         this.name = name;
     }
+    public int getAge() {
+        return age;
+    }
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    
 }
 
 public class Main {
@@ -23,9 +27,10 @@ public class Main {
     public static void main(String[] args){
 
         Human obj = new Human();
-        obj.setAge(25);
-        obj.setName("Aminur");
 
-        System.out.println(obj.getName() + " : " + obj.getAge());
+        obj.setName("Aminur");
+        obj.setAge(31);
+
+        System.out.println(obj.getName() +  " age is " + obj.getAge());
     }
 }
