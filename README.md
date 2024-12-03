@@ -35,3 +35,5 @@
   - this 
   - constructor 
   - default and parameterized constructor
+  - Anonymous in java
+  - inheritance
