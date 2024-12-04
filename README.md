@@ -47,3 +47,5 @@
   - Object Class equals toString hashcode
   - Upcasting and Downcasting
   - wrapper class
+  - Abstract Keyword
+  - Innser class
