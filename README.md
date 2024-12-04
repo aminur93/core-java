@@ -51,3 +51,4 @@
   - Innser class
   - Anonymous Inner Class
   - Abstract and Anonymous Inner Class
+  - interface 
