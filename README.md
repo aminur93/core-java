@@ -54,3 +54,4 @@
   - interface 
   - multiple interface
   - enum
+  - enum if else and switch
