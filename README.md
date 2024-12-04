@@ -52,3 +52,4 @@
   - Anonymous Inner Class
   - Abstract and Anonymous Inner Class
   - interface 
+  - multiple interface
