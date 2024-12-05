@@ -56,3 +56,4 @@
   - enum
   - enum if else and switch
   - enum class
+  - Annotation
