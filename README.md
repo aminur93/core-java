@@ -57,3 +57,6 @@
   - enum if else and switch
   - enum class
   - Annotation
+  - functional interface
+  - Lambda Expression
+  - Lamda Expression with return
