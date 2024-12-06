@@ -62,3 +62,4 @@
   - Lamda Expression with return
   - Exception Handling Using try catch
   - Exception Handling Using multiple try catch
+  - Exception throw keyword
