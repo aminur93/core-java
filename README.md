@@ -66,3 +66,5 @@
   - Custom exception
   - try with resouces
   - Multiple Threads
+  - Thread Priority and Sleep
+  - Runnable vs Thread
