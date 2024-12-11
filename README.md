@@ -73,3 +73,5 @@
   - Arraylist
   - Set
   - Map
+  - Comparator vs Comparable
+  - Stream API (ForEach)
