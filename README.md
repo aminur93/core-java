@@ -77,3 +77,7 @@
   - Stream API (ForEach)
   - ForEach method
   - Stream 
+  - Map Filter Reduce Sorted 
+  - var
+  - sealed class
+  - record class
